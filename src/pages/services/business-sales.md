@@ -10,7 +10,7 @@ draft: false
 Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
 vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
 nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](/services/accounting target="_blank") vitis imagine stagna insidias redigentur
+cadet! [Ego](#services/accounting) vitis imagine stagna insidias redigentur
 petunt dempserat dixisse, pro raptae aut male?
 
 - Dente reponere dixere referre excessitque seque
