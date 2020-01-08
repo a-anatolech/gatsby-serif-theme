@@ -20,7 +20,7 @@ const Home = (props) => {
       <div className="intro pb-4">
         <div className="container">
 
-          <h1>SpiritAmaltea - The Best Of The Best Man!</h1>
+          <h1>Hello World - The Best Of The Best!</h1>
           <p>
             Multiple content types using Mk II and JSON sources. Responsive design and SCSS. This
             is a beautiful and artfully designed starting theme. Yep!
