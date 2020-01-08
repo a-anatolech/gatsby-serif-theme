@@ -62,7 +62,7 @@ const Home = (props) => {
         <div className="row justify-content-center">
           <div className="col-12">
 
-            <h2 className="title-3 text-dark mb-4">Мы поможем оформить и получить права любых категорий</h2>
+            <h2 className="title-3 text-dark mb-4">Поможем оформить и получить</h2>
           </div>
           {json.map(edge => (
             <div key={edge.node.id} className="col-12 col-md-6 col-lg-4 mb-2">
