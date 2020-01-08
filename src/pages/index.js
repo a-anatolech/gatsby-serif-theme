@@ -25,7 +25,7 @@ const Home = (props) => {
             Multiple content types using Mk II and JSON sources. Responsive design and SCSS. This
             is a beautiful and artfully designed starting theme. Yep!
           </p>
-        
+
         </div>
       </div>
 
@@ -52,7 +52,7 @@ const Home = (props) => {
           ))}
           <div className="col-12 text-center">
             <Link className="button button-primary mt-2" to="/services">
-              View All Services
+              Все оказываемые услуги
             </Link>
           </div>
         </div>
@@ -61,7 +61,8 @@ const Home = (props) => {
       <div className="container pt-5 pb-5 pt-md-7 pb-md-7">
         <div className="row justify-content-center">
           <div className="col-12">
-            <h2 className="title-3 text-dark mb-4">Our Features</h2>
+
+            <h2 className="title-3 text-dark mb-4">Мы поможем оформить и получить права любых категорий</h2>
           </div>
           {json.map(edge => (
             <div key={edge.node.id} className="col-12 col-md-6 col-lg-4 mb-2">
