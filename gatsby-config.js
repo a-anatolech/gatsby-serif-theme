@@ -10,11 +10,11 @@ module.exports = {
     },
     menuLinks: [
       {
-        name: 'Services',
+        name: 'Сервисы',
         link: '/services',
       },
       {
-        name: 'Team',
+        name: 'Команда',
         link: '/team',
       },
       {
@@ -22,7 +22,7 @@ module.exports = {
         link: '/testimonials',
       },
       {
-        name: 'Contact',
+        name: 'Контакт',
         link: '/contact',
       },
     ],
