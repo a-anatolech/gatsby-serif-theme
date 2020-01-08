@@ -20,10 +20,9 @@ const Home = (props) => {
       <div className="intro pb-4">
         <div className="container">
 
-          <h1>Помощь в покупке - The Best <a href="https://example.com" target="_blank">Санкт-Петербург</a></h1>
+          <h1>Помощь в покупке - Санкт-Петербург</h1>
           <p>
-            Multiple content types using Mk II and JSON sources. Responsive design and SCSS. This
-            is a beautiful and artfully designed starting theme. Yep!
+            Быстро и с удовольствием окажем результат и не <a href="https://example.com" target="_blank">только</a>!
           </p>
 
         </div>
