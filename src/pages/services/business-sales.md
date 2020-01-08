@@ -1,6 +1,6 @@
 ---
 path: '/services/business-sales'
-title: 'Готовность и решительность'
+title: 'Готовность и Решительность'
 date: 2018-11-28T15:15:26+10:00
 image: '/services/default.png'
 featured: true
@@ -10,7 +10,7 @@ draft: false
 Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
 vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
 nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
+cadet! [Ego](https://yandex.ru/) vitis imagine stagna insidias redigentur
 petunt dempserat dixisse, pro raptae aut male?
 
 - Dente reponere dixere referre excessitque seque
