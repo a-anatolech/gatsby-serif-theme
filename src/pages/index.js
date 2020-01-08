@@ -19,11 +19,32 @@ const Home = (props) => {
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <h1>SpiritAmalt$&^% - The Best Of The Best!</h1>
+
+          <h1>SpiritAmaltea - The Best Of The Best Man Ever!</h1>
           <p>
             Multiple content types using Mk II and JSON sources. Responsive design and SCSS. This
             is a beautiful and artfully designed starting theme. Yep!
           </p>
+          <form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Your Role: <select name="role[]" multiple>
+      <option value="leader">Leader</option>
+      <option value="follower">Follower</option>
+    </select></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
         </div>
       </div>
 
