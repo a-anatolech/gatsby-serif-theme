@@ -10,11 +10,11 @@ const Home = (props) => {
   const json = props.data.allFeaturesJson.edges;
   return (
     <Layout bodyClass="page-home">
-      <SEO title="Home" />
+      <SEO title="Права" />
       <Helmet>
         <meta
           name="description"
-          content="Small Business Theme. Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This is a beautiful and artfully designed starting theme."
+          content="Немного воды для себя и остальных…"
         />
       </Helmet>
       <div className="intro pb-4">
